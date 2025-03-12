@@ -1,6 +1,6 @@
 # Sales-Forecasting
 ## Introduction
-This project focuses on E-commerce Sales Forecasting using Power BI to analyze and visualize sales performance, discount effectiveness, customer segmentation, and marketing impact. The dashboard provides a comprehensive view of sales trends, revenue distribution, and forecasting insights, helping businesses make data-driven decisions.
+This project focuses on Sales Forecasting using Power BI to analyze and visualize sales performance, discount effectiveness, customer segmentation, and marketing impact. The dashboard provides a comprehensive view of sales trends, revenue distribution, and forecasting insights, helping businesses make data-driven decisions.
 
 ## Usage
 - Load the Dataset into Power BI.
